@@ -32,4 +32,4 @@ console.log(primeiraUl);
 //querySelectorAll
 
 const animaisImg = document.querySelectorAll('.animais img');
-console.log(animaisImg)
+console.log(animaisImg);
